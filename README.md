@@ -3,9 +3,9 @@
 This project is a part of my Open Source Development (course in Informatics at Coventry University, IBA)
 
 ## Folders Structure
-- version_control: Documents Git and GitHub usage
-- github_actions_yatzy: Contains the GitHub Actions workflow for automated testing
-- github_issues: Collaboration documentation with GitHub Issues
+- version_control: Git and GitHub usage
+- github_actions_yatzy: contains the GitHub Actions workflow for automated testing
+- github_issues: collaboration connected to GitHub Issues
 
 ## Setup
 To run the project locally:
